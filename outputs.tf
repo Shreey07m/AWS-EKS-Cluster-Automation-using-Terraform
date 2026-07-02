@@ -45,3 +45,15 @@ output "cluster_arn" {
   value = module.eks.cluster_arn
 
 }
+
+output "node_group_name" {
+
+  value = module.eks_node_group.node_group_name
+
+}
+
+output "node_group_arn" {
+
+  value = module.eks_node_group.node_group_arn
+
+}
