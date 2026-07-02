@@ -24,3 +24,12 @@ variable "public_subnet_cidrs" {
 variable "private_subnet_cidrs" {
   type = list(string)
 }
+
+variable "cluster_version" {
+  type = string
+}
+
+variable "cluster_name" {
+  description = "EKS Cluster Name"
+  type        = string
+}
