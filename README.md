@@ -336,19 +336,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## Future Enhancements
-
-- AWS Load Balancer Controller
-- Kubernetes Ingress
-- Amazon ECR Integration
-- GitLab CI/CD Pipeline
-- Prometheus Monitoring
-- Grafana Dashboard
-- Remote Terraform Backend (S3 + DynamoDB)
-- Terraform Workspaces
-
----
-
 ## Author
 
 **Shreeya Mangesh Maliye**
